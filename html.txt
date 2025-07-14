@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rakibul Islam Shikder - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="Screenshot 2025-07-14 202041.png" alt="Rakibul Islam Shikder">
+    <h1>Rakibul Islam Shikder</h1>
+    <p>A passionate individual with a creative mindset, building beautiful and functional web experiences.</p>
+  </header>
+
+  <section class="project">
+    <h2>My Project</h2>
+    <div class="project-box">
+      <h3>Portfolio</h3>
+      <p>This is a simple personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills and information.</p>
+      <a href="https://github.com/users/rakibrafi169/projects/1/views/1?system_template=product_launch" target="_blank">View on GitHub</a>
+    </div>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Me</h2>
+    <ul>
+      <li><strong>Email:</strong> rakib.rafi169@gmail.com</li>
+      <li><strong>Phone:</strong> 01783679701</li>
+      <li><strong>Facebook:</strong> <a href="https://www.facebook.com/rakib.rafi.144" target="_blank">rakib.rafi.144</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Rakibul Islam Shikder. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
